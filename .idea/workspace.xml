@@ -213,8 +213,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="AWS_ACCESS_KEY_ID" value="AKIAJYDK7XWNMT3IYYOQ" />
-        <env name="AWS_SECRET_ACCESS_KEY" value="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" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
