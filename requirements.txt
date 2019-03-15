@@ -1,0 +1,3 @@
+flask
+botocore
+boto3
