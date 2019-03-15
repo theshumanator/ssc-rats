@@ -6,7 +6,6 @@ import os
 
 
 def connectWithS3():
-    print (os.environ['AWS_SECRET_ACCESS_KEY'])
     # Create an S3 client
     #s3 = boto3.client('s3', aws_access_key_id=os.environ['AWS_ACCESS_KEY_ID'],
     #aws_secret_access_key=os.environ['AWS_SECRET_ACCESS_KEY'])
