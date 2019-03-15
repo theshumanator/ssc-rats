@@ -2,6 +2,7 @@
 
 from cryptography.fernet import Fernet
 key = Fernet.generate_key()
+
 print(key)
 #write the key to a file to save for future use
 file = open('key.key', 'wb')

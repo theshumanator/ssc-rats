@@ -9,6 +9,7 @@ with open('file_to_encrypt', 'rb') as f:
 
     fernet = Fernet(key)
     decrypted = fernet.decrypt(data)
+
     print(decrypted)
 
 
