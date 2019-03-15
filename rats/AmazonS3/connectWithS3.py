@@ -1,5 +1,6 @@
 import boto3
 
+
 def connectWithS3():
     # Create an S3 client
     s3 = boto3.client('s3')
@@ -12,4 +13,5 @@ def connectWithS3():
 
     # Print out the bucket list
     print("Bucket List: %s" % buckets)
+    return "Bucket List: %s" % buckets;
 
