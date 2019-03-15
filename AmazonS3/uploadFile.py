@@ -5,7 +5,7 @@ import botocore
 s3 = boto3.client('s3')
 
 filename = 'test.txt'
-bucket_name = 'shumi-bucket'
+bucket_name = 'lizzie-bucket'
 
 # Uploads the given file using a managed uploader, which will split up large
 # files automatically and upload parts in parallel.

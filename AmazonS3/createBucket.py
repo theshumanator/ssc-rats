@@ -4,7 +4,7 @@ import boto3
 s3 = boto3.client('s3')
 
 # Create a bucket
-s3.create_bucket(Bucket='shumi-bucket')
+s3.create_bucket(Bucket='lizzie-bucket')
 
 
 # Call S3 to list current buckets
