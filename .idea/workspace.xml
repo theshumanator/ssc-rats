@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="011af10c-07c3-4ef1-9182-47831d390572" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AmazonS3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/AmazonS3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/connectWithS3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/createBucket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/downloadFileFromBucket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/downloads/test_downloaded.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/getCORSConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/putCORSConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/AmazonS3/uploadFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rats/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectWithS3.py" beforeDir="false" afterPath="$PROJECT_DIR$/connectWithS3xxx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <ignored path="venv/" />
@@ -35,8 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="92" selection-start-line="2" selection-start-column="92" selection-end-line="2" selection-end-column="92" />
+            <state relative-caret-position="425">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rats/AmazonS3/connectWithS3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="255">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -265,18 +249,18 @@
     <frame x="15" y="-1057" width="1127" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2124774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2124774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32942432" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32942432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32942432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32942432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32942432" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32942432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -414,15 +398,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rats/AmazonS3/connectWithS3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="92" selection-start-line="2" selection-start-column="92" selection-end-line="2" selection-end-column="92" />
+        <state relative-caret-position="425">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
