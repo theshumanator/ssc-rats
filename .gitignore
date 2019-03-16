@@ -1,1 +1,6 @@
 venv
+.idea
+AmazonS3/.idea
+flask-login/.idea
+rats/.idea
+testflask/.idea
